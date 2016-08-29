@@ -2,8 +2,8 @@ name: Elasticity
 account: bufanz
 server: shinyapps.io
 appId: 118529
-bundleId: 543130
+bundleId: 543133
 url: https://bufanz.shinyapps.io/Elasticity/
-when: 1472439824.51398
+when: 1472440384.0589
 asMultiple: FALSE
 asStatic: FALSE

@@ -36,7 +36,7 @@ shinyUI(fluidPage(
         'The data file can contail up to 8 brands.'),
       p('If you want a sample .csv file to upload,',
         'you can first download the sample',
-        a(href = 'simed data_utilities.csv', 'simed data_utilities.csv'),
+        a(href = 'https://github.com/BufanZeng/Data-Products-Project/blob/master/simed%20data_utilities.csv', 'simed data_utilities.csv'),
         'files, and then try uploading. (If you use this sample csv, try price levels between 100 to 200'
       )
     )
